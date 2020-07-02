@@ -1,1 +1,1 @@
-## React Shop
+## Shop App
